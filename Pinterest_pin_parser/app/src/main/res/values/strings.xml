@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinterest pin parser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">App info</string>
+    <string name="title_activity_result">Pinned Photos</string>
+    <string name="title_activity_error">ErrorActivity</string>
+    <string name="title_activity_result_activity2">ResultActivity2</string>
+    <string name="title_activity_result_activity_grid">ResultActivityGrid</string>
+    <string name="title_activity_individual_show">Selected pin</string>
+</resources>

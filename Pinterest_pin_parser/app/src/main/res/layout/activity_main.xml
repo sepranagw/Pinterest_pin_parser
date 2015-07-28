@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/background_ms"
+
+    >
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:adjustViewBounds="true"
+        android:padding="10dp"
+        android:src="@drawable/pinterest_icon"
+        android:id="@+id/pin_icon"
+        android:layout_centerHorizontal="true"
+        />
+    <EditText android:id="@+id/enter_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter Pinterest user"
+        android:layout_below="@+id/pin_icon"
+        android:layout_centerHorizontal="true"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:textSize="30dp"
+        android:imeOptions="actionDone"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="verifyUser"
+        android:text="Submit for query"
+        android:textColor="@color/black"
+        android:layout_below="@+id/enter_user"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/edit_text_file"
+        android:layout_margin= "10dp"
+        android:textSize="25dp"
+        android:padding="10dp"
+        />
+
+</RelativeLayout>
