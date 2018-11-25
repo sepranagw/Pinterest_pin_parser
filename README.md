@@ -5,15 +5,15 @@ Sample app that receives data via the public pinterest api, parses it for a user
 
 Splash Page
 
-![Splash page](http://i1280.photobucket.com/albums/a495/Corinne_Cameron_Nakashima/android%20apps/Screenshot_2015-07-27-20-45-33_zpsmenamhmd.png)
+![Splash page](https://i1280.photobucket.com/albums/a495/Corinne_Cameron_Nakashima/android%20apps/pinsplash_50_zps1i1ebaac.png)
 
 User's pinned images
 
-![Splash page](https://dl.dropboxusercontent.com/u/42465091/website/images/pinuser_grid.png)
+![Splash page](https://i1280.photobucket.com/albums/a495/Corinne_Cameron_Nakashima/android%20apps/pingrid_50_zpsdccdyiku.png)
 
 Individual pin with description
 
-![Splash page](https://dl.dropboxusercontent.com/u/42465091/website/images/pin_individ.png)
+![Splash page](https://i1280.photobucket.com/albums/a495/Corinne_Cameron_Nakashima/android%20apps/selectpin_50_zpsa31p44nz.png)
 
 ## Features:
 
