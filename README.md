@@ -5,7 +5,7 @@ Sample app that receives data via the public pinterest api, parses it for a user
 
 Splash Page
 
-![Splash page](https://dl.dropboxusercontent.com/u/42465091/website/images/pinuser_splash.png)
+![Splash page](http://i1280.photobucket.com/albums/a495/Corinne_Cameron_Nakashima/android%20apps/Screenshot_2015-07-27-20-45-33_zpsmenamhmd.png)
 
 User's pinned images
 
